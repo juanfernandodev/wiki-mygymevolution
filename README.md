@@ -36,3 +36,6 @@ An application (from here on: "App") to record how much weight the user can lift
 
 ## Top-Level design
 ![](images/DesignTopLevelMyGymEvolution.png)
+
+## Entities
+![](images/Entities.png)
