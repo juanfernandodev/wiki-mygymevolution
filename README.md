@@ -42,3 +42,10 @@ An application (from here on: "App") to record how much weight the user can lift
 
 ## Entities
 ![](images/Entities.png)
+
+## Architecture Principles
+-  A reactive and layered architecture.
+- Unidirectional Data Flow (UDF) in all layers of the app.
+- A UI layer with state holders to manage the complexity of the UI.
+- Coroutines and flows.
+- Dependency injection best practices.
