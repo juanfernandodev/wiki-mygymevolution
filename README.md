@@ -12,18 +12,20 @@ An application (from here on: "App") to record how much weight the user can lift
 ## Functional Requirements
 
 1. The App must allow to record whatever gym exercise with its respective weight made.
-2. The App must group the exercise in its respective categories: quadriceps, adductors,
+2. The App must group the exercise in its respective muscle group: Quadriceps, Adductors, Femoral, Gluteus, Chest, Biceps, Triceps, Shoulder, Back.
 3. The App must allow to delete exercises.
-4. The App must allow to modifier the name exercises.
+4. The App must allow to modifier the name, image, muscle group and modality of exercises.
 5. The App must allow to add an image or take a picture to illustrate the exercises.
-6. The App must show the categories sorted by the modified date last of any exercises.
+6. The App must show the muscle group sorted by the last modified date of any exercises.
 7. The App must show the weight of each exercises in pounds (lb).
-8. The App must allow to select if the exercise is in a machine, pulley, dumbbell or barbell.
-9. The App must allow you to enter the number of repetitions of the exercise.
-10. The App must ask what categories the user is going to exercise today, then only show those categories. Those categories can will be changed.
-11. The App must allow watch graphically the evolution of the weight by categories and exercise.
-12. The App must allow that categories has an image.
-13. The App must be downloadable in the PlayStore.
+8. The App must allow to select the exercise modality: machine, pulley, dumbbell or barbell.
+9. The App must allow you to enter the number of repetitions(reps) of the exercise.
+10. The App must ask what muscle group the user is going to exercise today, then only show those muscle group. Those muscle group can will be changed.
+11. The App must allow watch graphically the evolution of the weight by muscle group and exercise.
+12. The App must allow that muscle group has an image.
+13. The App must allow to add, modifier and delete muscle group.
+14. The App must allow to add, modifier and delete modality exercises.
+15. The App must be downloadable in the PlayStore.
 
 ## No-functional Requirements
 
