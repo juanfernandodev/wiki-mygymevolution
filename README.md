@@ -7,6 +7,7 @@ An application (from here on: "App") to record how much weight the user can lift
   * [Functional Requirements](#functional-requirements)
   * [No-functional Requirements](#no-functional-requirements)
   * [Top-Level design](#top-level-design)
+  * [Entities](#entities)
 <!-- TOC -->
 
 ## Functional Requirements
@@ -33,6 +34,8 @@ An application (from here on: "App") to record how much weight the user can lift
 2. The App must work without internet.
 3. The app must have the semantic versioning format: x.y.z.
 4. The app must save the warning and error logs.
+5. The app must have cover code at least 80%.
+6. The app must have instrumental test.
 
 ## Top-Level design
 ![](images/DesignTopLevelMyGymEvolution.png)
